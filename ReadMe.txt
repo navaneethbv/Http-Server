@@ -5,7 +5,7 @@ To execute the program using LOCALHOST follow the steps:-
 1.install HttpServer.java on one system
 2.configure your browser using following steps:
 a.go to Tools
-b.go to Internet Options...
+b.go to Internet Options....
 c.go to Connections
 d.go to Lan Setting
 e.select Use a proxy server for your lan
